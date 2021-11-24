@@ -1,4 +1,4 @@
-# Tensorflow Object Detection with Tensorflow 2
+# Tensorflow 2 Object Detection API Demo
 
 In this repository you can find some examples on how to use the Tensorflow OD API with Tensorflow 2. 
 Referenced from [Tensorflow Object Detection with Tensorflow 2 (Gilbert Tanner)](https://gilberttanner.com/blog/object-detection-with-tensorflow-2)
@@ -39,7 +39,7 @@ $ pip3 install -r requirements.txt
 
 2. Choose one of the models and download
 
-3. Extract 
+3. Extract the downloaded model
 
 **For the example output, `efficientdet_d2_coco17_tpu-32` was used
 
