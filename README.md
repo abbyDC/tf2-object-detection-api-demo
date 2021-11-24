@@ -33,7 +33,7 @@ $ pip3 install -r requirements.txt
 ```
 
 
-### II. Download Pre-trained Model
+## II. Download Pre-trained Model
 
 1. Go to [TF Object Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) 
 
@@ -43,7 +43,7 @@ $ pip3 install -r requirements.txt
 
 **For the example output, `efficientdet_d2_coco17_tpu-32` was used
 
-### III. Video Inference
+## III. Video Inference
 
 1. Upload your video in the `vids` folder
 
