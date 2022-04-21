@@ -7,6 +7,7 @@ This TF2 OD example code was used for the demo in my talk, UP ACM Fest 2021 "AI 
 
 Accompanying slides can be found here: [Google Slides Link](https://bit.ly/acmfest_ai_prototyping)
 
+Recorded video can be viewed here (13:55 mark) [Building AI Prototypes Workshop](https://www.youtube.com/watch?v=A-GbrH5DZJk)
 ## I. Project Setup
 
 1. Creating python virtual env
